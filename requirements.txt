@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langchain-openai
+langgraph
+ipykernel
+langsmith
+langchain_anthropic
+tavily-python
+langchain-community
+langchain-fireworks
